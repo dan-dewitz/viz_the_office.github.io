@@ -60,7 +60,7 @@ hr.style17:after {
 
 .bg-primary {
     /*background-color: #18bc9c!important;*/
-    background-color: #F0F0F0 !important;
+    background-color: white !important;
 }
 
 .tittle-buffer {
@@ -68,7 +68,7 @@ hr.style17:after {
 }
 
 .tittle-topper {
-  margin-top: 40px;
+  margin-top: 90px;
 }
 
 .data-topper {
@@ -85,6 +85,14 @@ hr.style17:after {
 
 .ds-buffer {
   margin-bottom: 70px;
+}
+
+.grey-toggle {
+  color: #7f7f7f;
+}
+
+.desc-text {
+  font-size: 18px
 }
 
 .portfolio-item-spacing {
